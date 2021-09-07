@@ -30,7 +30,7 @@ GraphClientID
 ### Executing program
 
 Adjust the runcycle variable to match with the Power Automate schedule. 
-Default is 30min (runcycle variable)
+Default is 30min 
 
 ## Help
 
