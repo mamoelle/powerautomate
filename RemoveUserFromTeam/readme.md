@@ -2,7 +2,7 @@
 
 ## Description
 Users with a specific domain are not allowed yet to use Teams collaboration but want to leverage already meetings. Currently all users with a Teams license can be added to a Team.
-To meet the requirements we have to remove users from a the Team once they join the team.
+To meet the current requirements we have to remove users from a the Team once they join the team.
 
 Objective:
 * Remove a user with a specific domain from a Teams team and notify the owner as well as the user via email.
