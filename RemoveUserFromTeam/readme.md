@@ -19,7 +19,7 @@ Components:
 
 ### Installing
 
-Import the Power Automate flow, add email connector and adjust the variables with edit: in the comment line.
+Import the Power Automate flow, add email connector and adjust the variables.
 
 Variables: 
 Runcycle
