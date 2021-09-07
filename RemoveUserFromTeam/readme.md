@@ -10,7 +10,7 @@ Objective:
 
 ### Solution and dependencies
 
-Key of the solution is the Azure Audit log where all group membership events are logged. The Power Automate flow queries the Audit log via Graph API to filter users which have been added to a team recently. The flow runs every 30min per default to find user with a matching domain. If removed from the team via Graph API
+A key element of the solution is the Azure Audit log where all group membership events are logged. The Power Automate flow queries the Audit log via Graph API to filter users which have been added to a team recently. The flow runs every 30min per default to find user with a matching domain. If removed from the team via Graph API
 
 Components:
 * Power Automate license
