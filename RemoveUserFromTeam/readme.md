@@ -34,7 +34,7 @@ Default is 30min
 
 ## Help
 
-Contact the authors
+Contact the author
 
 ## Authors
 
